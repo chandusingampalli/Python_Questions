@@ -23,5 +23,5 @@ Contributions are welcome! Feel free to submit pull requests with additional que
 
 
 ## Author
-By Kota Sreedhar Reddy 
+By Singampalli Yuva Chandrakanth
 Happy Coding! 🚀
